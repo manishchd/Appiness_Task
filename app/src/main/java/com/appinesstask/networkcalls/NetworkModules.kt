@@ -1,7 +1,7 @@
-package com.appinesstask.views.networkcalls
+package com.appinesstask.networkcalls
 
 import com.appinesstask.BuildConfig
-import com.appinesstask.views.utilities.AlertLoader
+import com.appinesstask.utilities.AlertLoader
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import dagger.Module
 import dagger.Provides

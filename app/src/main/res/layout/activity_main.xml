@@ -6,7 +6,7 @@
 
         <variable
             name="vm"
-            type="com.appinesstask.MainVM" />
+            type="com.appinesstask.views.MainVM" />
     </data>
 
    <androidx.constraintlayout.widget.ConstraintLayout

@@ -1,4 +1,4 @@
-package com.appinesstask.views.extensions
+package com.appinesstask.extensions
 
 import java.util.*
 

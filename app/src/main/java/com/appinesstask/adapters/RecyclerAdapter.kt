@@ -1,4 +1,4 @@
-package com.appinesstask.views.adapters
+package com.appinesstask.adapters
 
 import android.view.LayoutInflater
 import android.view.View

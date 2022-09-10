@@ -1,4 +1,4 @@
-package com.appinesstask.views.networkcalls
+package com.appinesstask.networkcalls
 
 interface ApiProcessor<T> {
 

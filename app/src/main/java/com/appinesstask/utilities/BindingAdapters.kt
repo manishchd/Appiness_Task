@@ -1,11 +1,10 @@
-package com.appinesstask.views.utilities
+package com.appinesstask.utilities
 
 import android.text.TextWatcher
 import android.widget.EditText
-import android.widget.TextView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.appinesstask.views.adapters.RecyclerAdapter
+import com.appinesstask.adapters.RecyclerAdapter
 
 @BindingAdapter("setRecyclerAdapter", requireAll = false)
 fun RecyclerView.setRecyclerAdapter(adapter: RecyclerAdapter<*>){

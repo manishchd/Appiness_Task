@@ -1,4 +1,4 @@
-package com.appinesstask.views.models
+package com.appinesstask.models
 
 data class ContactRes(
     val dataObject: List<DataObject>? = null,

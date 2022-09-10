@@ -1,11 +1,11 @@
-package com.appinesstask.views.utilities
+package com.appinesstask.utilities
 
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import androidx.core.content.ContextCompat
 import com.appinesstask.R
-import com.appinesstask.views.extensions.showToast
+import com.appinesstask.extensions.showToast
 
 fun Context.openDialPad(phone: String) {
 

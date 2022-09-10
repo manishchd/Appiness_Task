@@ -1,4 +1,4 @@
-package com.appinesstask.views.utilities
+package com.appinesstask.utilities
 
 import android.app.AlertDialog
 import android.content.Context

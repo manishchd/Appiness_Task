@@ -1,12 +1,12 @@
-package com.appinesstask.views.networkcalls
+package com.appinesstask.networkcalls
 
 import android.content.Context
 import android.net.ConnectivityManager
 import android.util.Log
 import android.view.View
 import com.appinesstask.R
-import com.appinesstask.views.extensions.showToast
-import com.appinesstask.views.utilities.AlertLoader
+import com.appinesstask.extensions.showToast
+import com.appinesstask.utilities.AlertLoader
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow

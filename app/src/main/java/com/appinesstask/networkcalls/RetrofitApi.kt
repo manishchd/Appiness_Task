@@ -1,6 +1,6 @@
-package com.appinesstask.views.networkcalls
+package com.appinesstask.networkcalls
 
-import com.appinesstask.views.models.ContactRes
+import com.appinesstask.models.ContactRes
 import retrofit2.Response
 import retrofit2.http.GET
 

@@ -1,4 +1,4 @@
-package com.appinesstask.views.adapters
+package com.appinesstask.adapters
 
 import kotlinx.parcelize.RawValue
 

@@ -1,4 +1,4 @@
-package com.appinesstask
+package com.appinesstask.views
 
 import androidx.lifecycle.ViewModel
 import androidx.navigation.NavController
@@ -7,9 +7,5 @@ import javax.inject.Inject
 
 @HiltViewModel
 class MainVM @Inject constructor() : ViewModel() {
-
-    var navController: NavController? = null
-
-
 
 }

@@ -1,7 +1,7 @@
-package com.appinesstask.views.models
+package com.appinesstask.models
 
-import com.appinesstask.views.adapters.AbstractModel
-import com.appinesstask.views.extensions.makeCap
+import com.appinesstask.adapters.AbstractModel
+import com.appinesstask.extensions.makeCap
 
 data class Heirarchy(
     val contactName: String? = null,
