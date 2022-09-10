@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/bg_edittext.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/button_bg.xml" value="0.1935" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_camera_upload.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_gallery_back.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_hide_image.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_picture.xml" value="0.1" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/ic_videocam.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/rounded_white_background.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/rounded_white_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/drawable/three_dot.xml" value="0.2255" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/activity_trimmer.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/alert_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/choose_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/common_alert.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/confirm_alert.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/dashboard.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/fragment_picker.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/item_chooser.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/login.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/progress_layout.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/signup.xml" value="0.21" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/splash.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mishr/OneDrive/Desktop/Manish Appricott Task/app/src/main/res/layout/view_time_line.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_camera_filled.xml" value="0.253" />
+        <entry key="app/src/main/res/drawable/ic_picture.xml" value="0.253" />
+        <entry key="app/src/main/res/drawable/ic_video.xml" value="0.253" />
+        <entry key="app/src/main/res/drawable/play_button.xml" value="0.253" />
+        <entry key="app/src/main/res/drawable/rounded_white_background.xml" value="0.253" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/layout/activity_trimmer.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/alert_layout.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/common_alert.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/confirm_alert.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/item_chooser.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/progress_layout.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/splash.xml" value="0.34739583333333335" />
+        <entry key="app/src/main/res/layout/view_time_line.xml" value="0.34739583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
