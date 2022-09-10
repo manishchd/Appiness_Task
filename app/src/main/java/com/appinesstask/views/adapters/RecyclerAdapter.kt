@@ -18,6 +18,7 @@ class RecyclerAdapter<T : AbstractModel>(
     private var onItemClick: OnItemClick? = null
 
     fun getItemAt(position: Int) = items[position]
+    fun getAllItems() = items
 
     fun addItems(items: List<T>) {
         this.items.clear()

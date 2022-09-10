@@ -7,6 +7,6 @@ import retrofit2.http.GET
 interface RetrofitApi {
 
     @GET(ApiUrls.GET_MY_LIST)
-    suspend fun getWeather(): Response<ContactRes>
+    suspend fun getMyListData(): Response<ContactRes>
 
 }

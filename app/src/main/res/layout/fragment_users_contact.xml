@@ -47,6 +47,7 @@
                 app:layout_constraintTop_toTopOf="parent" />
 
             <androidx.appcompat.widget.AppCompatEditText
+                addTextChangeListener="@{vm.textChangeListeners}"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
                 android:background="@null"
@@ -62,9 +63,11 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <androidx.recyclerview.widget.RecyclerView
+            setRecyclerAdapter="@{vm.contactAdapter}"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginTop="10dp"
+            android:orientation="vertical"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toBottomOf="@id/clSearch"

@@ -18,6 +18,16 @@ class UsersContactFragment : Fragment(R.layout.fragment_users_contact) {
         super.onViewCreated(view, savedInstanceState)
         userContactBinding = FragmentUsersContactBinding.bind(view)
         userContactBinding?.vm = userContactVm
+        fetchAPI()
     }
+
+    /**
+     * This method is used to hit the API's
+     * */
+    private fun fetchAPI() {
+        if (userContactVm.contactAdapter.isEmpty())
+            userContactVm.getMyList(requireView())
+    }
+
 
 }
