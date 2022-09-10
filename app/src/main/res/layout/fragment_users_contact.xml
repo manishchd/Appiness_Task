@@ -53,6 +53,7 @@
                 android:background="@null"
                 android:hint="@string/Search"
                 android:paddingHorizontal="15dp"
+                android:maxLines="1"
                 android:textColor="@color/black"
                 android:textColorHint="@color/_e5e5e5"
                 app:layout_constraintBottom_toBottomOf="parent"

@@ -4,10 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
         <variable
             name="model"
-            type="com.appinesstask.views.models.Heirarchy" />
+            type="com.appinesstask.models.Heirarchy" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
